@@ -9,7 +9,7 @@ Most dates and links are defined as custom variables in _config.yml. Simply modi
 
 Variables to edit:
 
-title: APBJC 2028 
+title: APBJC 2027 
 iteration: "2nd"  
 location: "Marina Central, Singapore"  
 city: "Marina Central"  
