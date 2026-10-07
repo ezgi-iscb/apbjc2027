@@ -1,74 +1,72 @@
 
-RECOMB Web Page Template
+APBJC Web Page Template
 
 Forked from the [Minima Jekyll Template](https://github.com/jekyll/minima)
 
-Adapted by Can Alkan
-
-Made it look similar to the Themefisher theme adapted by  Fatma Kahveci, Can Alkan, and Begüm Özemek for RECOMB 2023.
+Adapted by Can Alkan and co.
 
 Most dates and links are defined as custom variables in _config.yml. Simply modify them, and all related pages should inherit the updates. We also have social\_links with variables, but it probably doesn't need updates. If some social channels are changed / added / removed, modify accordingly. 
 
 Variables to edit:
 
-title: RECOMB 2026  
-iteration: "30th"  
-location: "Thessaloniki, Greece"  
-city: "Thessaloniki"  
-country: "Greece"  
+title: APBJC 2028 
+iteration: "2nd"  
+location: "Marina Central, Singapore"  
+city: "Marina Central"  
+country: "Singapore"  
 
 author:  
-   name: RECOMB Conference  
-   email: info@recombconf.org  
+   name: ISCB  
+   email: apbjc@iscb.org
   
 deadlines:
-  abstract_submission: "7 November 2025, 23:59 AoE"
-  paper_submission: "20 November 2025, 23:59 AoE (updates to existing submissions only)"
-  author_notification: "16 January 2026"
-  final_version: "25 February 2026"
+  abstract_submission: ""
+  paper_submission: ""
+  author_notification: ""
+  final_version: ""
   early_registration: "TBA" # placeholder
   late_registration: "TBA" # placeholder
   highlights_submission: "TBA"
   highlights_notification: "TBA"
-  highlights_cutoff: "January 1, 2025" # earliest journal pub date for highlights submissions
+  highlights_cutoff: "" # 
   poster_submission: "TBA"
   poster_notification: "TBA"
   late_poster_submission: "TBA"
   late_poster_notification: "TBA"
   travel_fellow_application: "TBA"
   travel_fellow_notification: "TBA"
-  conference_dates: "26-29 May 2026"
-  satellite_dates: "24-25 May 2026" # for the home page
-  satellite_seq: "24-25 May 2026"
-  satellite_ccb: "24-25 May 2026"
-  satellite_cg: "24-25 May 2026"
-  satellite_genetics: "25 May 2026"
-  satellite_priv: "25 May 2026"
-  satellite_arch: "24 May 2026"
-  satellite_rsg: "25 May 2026"
-  satellite_hbio: "25 May 2026"
+  conference_dates: ""
+  satellite_dates: "" 
+  satellite_seq: ""
+  satellite_ccb: ""
+  satellite_cg: ""
+  satellite_genetics: ""
+  satellite_priv: ""
+  satellite_arch: ""
+  satellite_rsg: ""
+  satellite_hbio: ""
   
 links: 
-  easychair: "https://easychair.org/conferences/?conf=recomb2026"
+  easychair: ""
  
 team:
-  pc_chair: "Rayan Chikhi"
-  pc_chair_email: "rayan.chikhi@pasteur.fr"
-  pc_chair_institute: "Institut Pasteur"
-  pc_chair_url: "https://rayan.chikhi.name/"
-  highlights_chair: "Michal Linial"
+  pc_chair: ""
+  pc_chair_email: ""
+  pc_chair_institute: ""
+  pc_chair_url: ""
+  highlights_chair: ""
   highlights_chair_email: ""
-  highlights_chair_institute: "The Hebrew University of Jerusalem"
-  highlights_chair_url: "https://michal-linial.huji.ac.il/"
-  posters_chair: "TBA"
+  highlights_chair_institute: ""
+  highlights_chair_url: ""
+  posters_chair: ""
   posters_chair_email: ""
   posters_chair_institute: ""
   posters_chair_url: ""
-  travel_fellowship_chair: "Gurkan Bebek"
-  travel_fellowship_chair_email: "gurkan.bebek@case.edu"
-  travel_fellowship_chair_institute: "Case Western Reserve University School of Medicine"
-  travel_fellowship_chair_url: "https://case.edu/datascience/contact-us/faculty/gurkan-bebek"
-  industry_chair: "Mohammed Alser"
-  industry_chair_email: "malser@gsu.edu"
-  industry_chair_institute: "Georgia State University"
-  industry_chair_url: "https://cas.gsu.edu/profile/mohammed-alser/" 
+  travel_fellowship_chair: ""
+  travel_fellowship_chair_email: ""
+  travel_fellowship_chair_institute: ""
+  travel_fellowship_chair_url: ""
+  industry_chair: ""
+  industry_chair_email: ""
+  industry_chair_institute: ""
+  industry_chair_url: "" 
