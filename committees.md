@@ -65,7 +65,7 @@ page_class: committees-page
 | Selene Fernandez Valverde | UNSW |
 | Tzong-Yi Lee | National Yang Ming Chiao Tung University |
 | Tae-Min Kim | Catholic University of Korea |
-| Adaikalavan (Adai) Ramasamy | A*STAR |
+| Adaikalavan (Adai) Ramasamy | A\*STAR |
 | Hyun Uk Kim | KAIST |
 | Prashanth N Suravajhala | Manipal University Jaipur |
 | Anders Skanderup | Genome Institute of Singapore |
