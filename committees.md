@@ -6,47 +6,45 @@ page_class: committees-page
 
 ## Steering Committee
 
-| [Vineet Bafna](https://proteomics.ucsd.edu/wp-public-root/about/team/vineet-bafna/) | University of California, San Diego |
+| [Niranjan Nagarajan](mailto:niranjan@nus.edu.sg) | National University of Singapore |
+| [Shoba Ranganathan](mailto:shoba.ranganathan1@gmail.com) | Macquarie University |
 
 ---
 
-## Program Chair
+## Scientific Programme Co-chairs
 
-| [{{ site.team.pc_chair }}]({{ site.team.pc_chair_url }}) | {{ site.team.pc_chair_institute }} |
+| [{{ site.team.pc_chair1 }}]({{ site.team.pc_chair1_url }}) | {{ site.team.pc_chair1_institute }} |
+| [{{ site.team.pc_chair2 }}]({{ site.team.pc_chair2_url }}) | {{ site.team.pc_chair2_institute }} |
+| [{{ site.team.pc_chair3 }}]({{ site.team.pc_chair3_url }}) | {{ site.team.pc_chair3_institute }} |
 
 ---
 
 ## Organizing Committee
 
-#### Chair
+#### Co-chairs
 
 | [{{ site.team.oc_chair1 }}]({{ site.team.oc_chair1_url }}) | {{ site.team.oc_chair1_institute }} |
+| [{{ site.team.oc_chair2 }}]({{ site.team.oc_chair2_url }}) | {{ site.team.oc_chair2_institute }} |
 
-#### Operations
+#### Members
 
-TBA
-
-#### Publicity Chair
-
-TBA
-
-#### Keynotes Chair
-
-TBA
-
-#### Industry Chair
-
-TBA
+| [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
 
 ---
 
-## Posters Chair
+## Tutorials Co-chairs
 
-TBA
+| [{{ site.team.tutorials_chair1 }}]({{ site.team.tutorials_chair1_url }}) | {{ site.team.tutorials_chair1_institute }} |
+| [{{ site.team.tutorials_chair2 }}]({{ site.team.tutorials_chair2_url }}) | {{ site.team.tutorials_chair2_institute }} |
+| [{{ site.team.tutorials_chair3 }}]({{ site.team.tutorials_chair3_url }}) | {{ site.team.tutorials_chair3_institute }} |
+| [{{ site.team.tutorials_chair4 }}]({{ site.team.tutorials_chair4_url }}) | {{ site.team.tutorials_chair4_institute }} |
 
-## Travel Fellowships Chair
+---
 
-TBA
+## Technology Talk Co-chairs
+
+| [{{ site.team.tt_chair1 }}]({{ site.team.tt_chair1_url }}) | {{ site.team.tt_chair1_institute }} |
+| [{{ site.team.tt_chair2 }}]({{ site.team.tt_chair2_url }}) | {{ site.team.tt_chair2_institute }} |
 
 ---
 
@@ -93,4 +91,8 @@ TBA
 
 ### Program Committee
 
-TBA
+| Sung Wook Chi | Korea University |
+| Joon Yong An | Korea University |
+| Prajjval Pratap Singh	| Bioclues.org |
+
+
