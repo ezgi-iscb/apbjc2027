@@ -3,7 +3,7 @@ layout: page
 title: Sponsorship Opportunities
 ---
 
-#### We welcome the participation of institutes and companies as sponsors of APBJC 2027!
+#### We welcome the participation of institutes and companies as sponsors of APBJC 2027
 
 APBJC info here.
 
