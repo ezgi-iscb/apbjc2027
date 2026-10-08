@@ -22,6 +22,6 @@ In the Asia-Pacific region, further development of bioinformatics is highly dema
 ### Contact details
 
 - Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
-- X: [{{ site.author.email }}]({{ site.author.email }})
-- Bluesky: [@RECOMBConf](https://bsky.app/profile/recombconf.bsky.social)
-- LinkedIn: [@RECOMBConf](https://linkedin.com/company/recombconf)
+- X: [@apbjc](https://x.com/apbjc)
+- Bluesky: [@apbjc](https://bsky.app/profile/apbjc.bsky.social)
+- LinkedIn: [@apbjc](https://linkedin.com/company/apbjc)
