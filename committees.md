@@ -7,13 +7,6 @@ page_class: committees-page
 ## Steering Committee
 
 | [Vineet Bafna](https://proteomics.ucsd.edu/wp-public-root/about/team/vineet-bafna/) | University of California, San Diego |
-| [Bonnie Berger (chair)](https://people.csail.mit.edu/bab/) | Massachusetts Institute of Technology |
-| [Eleazar Eskin](https://web.cs.ucla.edu/~eeskin/) | University of California, Los Angeles |
-| [Jian Ma](https://www.cs.cmu.edu/~jianma/) | Carnegie Mellon University |
-| [Teresa Przytycka](https://www.ncbi.nlm.nih.gov/CBBresearch/Przytycka/index.cgi#research) | NCBI, NIH |
-| [Cenk Sahinalp](https://ccr.cancer.gov/staff-directory/s-cenk-sahinalp) | NCI, NIH |
-| [Roded Sharan](https://www.cs.tau.ac.il/~roded/) | Tel Aviv University |
-| [Martin Vingron](https://www.molgen.mpg.de/Martin-Vingron.html) | Max Planck Institute for Molecular Genetics |
 
 ---
 
@@ -57,27 +50,38 @@ TBA
 
 ---
 
-## Satellite Chairs
+## Area Chairs
 
-#### RECOMB-Seq
-
-TBA
-
-#### RECOMB-CG
-
-TBA
-
-#### RECOMB-Genetics
-
-TBA
-
-#### RECOMB-Privacy
-
-TBA
-
-#### RECOMB-CCB
-
-TBA
+| Limsoon Wong | National University of Singapore |
+| Sung Wook Chi | Korea University |
+| Joon Yong An | Korea University |
+| Melissa Fullwood | Nanyang Technological University |
+| Xiujie Wang | Chinese Academy of Sciences |
+| Wing-Kin Sung | CUHK & Hong Kong Genome Institute |
+| Jagath Rajapakse | Nanyang Technological University |
+| Kumar Selvarajoo | Zhejiang University |
+| M. Asif Khan | University of Doha for Science and Technology |
+| Kiyoko F. Aoki-Kinoshita | Soka University |
+| Jessica Mar | University of Queensland |
+| Pawan Dhar | Jawaharlal Nehru University |
+| Selene Fernandez Valverde | UNSW |
+| Tzong-Yi Lee | National Yang Ming Chiao Tung University |
+| Tae-Min Kim | Catholic University of Korea |
+| Adaikalavan (Adai) Ramasamy | A*STAR |
+| Hyun Uk Kim | KAIST |
+| Prashanth N Suravajhala | Manipal University Jaipur |
+| Anders Skanderup | Genome Institute of Singapore |
+| Ragothaman M Yennamalli | Jawaharlal Nehru University |
+| David Ascher | University of Queensland |
+| Kenneth Ban | NUS |
+| Rohan Williams | NUS |
+| Tarini Ghosh | IIIT Delhi |
+| Jane Tiller | Monash University |
+| Sonia Balyan | Indian Biological Data Centre (IBDC) |
+| Wai Keat Yam | Monash University Malaysia |
+| Louxin Zhang | NUS |
+| Shyam Prabhakar | GIS (A*STAR) |
+| Laxmi Parida | IBM |
 
 ---
 
