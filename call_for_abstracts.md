@@ -3,7 +3,7 @@ layout: page
 title: Call for Abstracts
 ---
 
-## Posters
+## Posters & Short Talks
 
 APBJC 2027 welcomes abstract submissions featuring research at the forefront of bioinformatics and computational biology. We encourage the submission of original work for consideration for oral and/or poster presentation.
 
@@ -15,11 +15,11 @@ Submit your work and be part of this conference!
 
 ## Presenter Requirements
 
-**Research may be presented as both a talk and a poster *<ins>if and only if</ins>* it is submitted as two individual submissions with TWO different presenters.** Having the same person deliver two (or more) different talks is NOT PERMITTED. This allows for many people from one lab to present the work of the lab. A presenting author may present NO MORE THAN ONE talk or poster.
+**Research may be presented as both a talk and a poster *<ins>if and only if</ins>* it is submitted as two individual submissions with TWO different presenters.** Having the same person deliver two (or more) **different talks** is **NOT PERMITTED**. This allows for many people from one lab to present the work of the lab. A presenting author **may present NO MORE THAN ONE talk or poster**.
 
-This conference follows the ISCB policy for acceptable use of large language models (https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models).
+This conference follows the ISCB policy for acceptable use of large language models [https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models](https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models).
 
-## Key Dates
+## <a name="dates"></a>Key Dates
  
 - **Submission deadline**: {{ site.deadlines.poster_submission }}
 - **Author notification**: {{ site.deadlines.poster_notification }}
@@ -58,9 +58,9 @@ Submiters may choose to have their submission reviewed for:
 2. Talk or Poster
 3. Poster only
    
-If you select talk or poster, and are unsuccessful for a talk, your abstract will automatically be considered for a poster presentation.  Deadlines are posted above.
+If you select talk or poster, and are unsuccessful for a talk, your abstract will automatically be considered for a poster presentation.  Deadlines are [posted above](#dates).
 
-Poster only submissions DO NOT require any materials to be uploaded during submission. Submissions are evaluated on the 275 word text abstract provided during submission.
+<span style="color:red">Poster only submissions DO NOT require any materials to be uploaded during submission. Submissions are evaluated on the 275 word text abstract provided during submission.</span>
 
 This conference will feature a student-organized symposium before the main conference.  Those wishing to be considered for selection to present in the student-organized symposium should submit in the Student Symposium Track option.  Students and Post-docs are strongly encouraged to consider opting into this option as well as the option to be considered for the main conference. 
 
@@ -72,7 +72,7 @@ Participants who opt for (3) poster only are required to submit:
 
 * A 275-word abstract to be posted on the conference website.
 * 
-All abstracts must be submitted using the conference submission site by the deadlines above.
+All abstracts must be submitted using the conference submission site by the [deadlines above](#dates).
 
 ## Review Process
 
