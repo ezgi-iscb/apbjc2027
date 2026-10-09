@@ -15,7 +15,7 @@ Submit your work and be part of this conference!
 
 ## Presenter Requirements
 
-Research may be presented as both a talk and a poster if and only if it is submitted as two individual submissions with TWO different presenters. Having the same person deliver two (or more) different talks is NOT PERMITTED. This allows for many people from one lab to present the work of the lab. A presenting author may present NO MORE THAN ONE talk or poster.
+**Research may be presented as both a talk and a poster *<ins>if and only if</ins>* it is submitted as two individual submissions with TWO different presenters.** Having the same person deliver two (or more) different talks is NOT PERMITTED. This allows for many people from one lab to present the work of the lab. A presenting author may present NO MORE THAN ONE talk or poster.
 
 This conference follows the ISCB policy for acceptable use of large language models (https://www.iscb.org/iscb-policy-statements/iscb-policy-for-acceptable-use-of-large-language-models).
 
