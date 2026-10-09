@@ -1,5 +1,5 @@
 <!--
-This header is customized for RECOMB.
+This header is customized for APBJC.
 It creates two navigation menus:
 1. .desktop-nav: A horizontal menu with dropdowns for large screens.
 2. .mobile-nav: A "hamburger" menu for small screens.
@@ -12,14 +12,14 @@ Both menus are populated from the `main_navigation` variable in _config.yml.
 <header class="site-header">
   <div class="wrapper site-nav-wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      {%- assign logo_default = "/images/recomb-logo/RECOMB_logo.svg" | relative_url -%}
-      {%- assign logo_white = "/images/recomb-logo/RECOMB_logo_white.svg" | relative_url -%}
+      {%- assign logo_default = "/images/logo/apbjc_logo_tate.ai" | relative_url -%}
+      {%- assign logo_white = "/images/logo/apbjc_logo_tate.ai" | relative_url -%}
       {%- if page.layout == 'home' or page.layout == 'page' -%}
         {%- assign logo_path = logo_white -%}
       {%- else -%}
         {%- assign logo_path = logo_default -%}
       {%- endif -%}
-      <img src="{{ logo_path }}" class="recomb-logo" alt="{{ site.title | escape }}" data-logo-default="{{ logo_default }}" data-logo-white="{{ logo_white }}">
+      <img src="{{ logo_path }}" class="apbjc-logo" alt="{{ site.title | escape }}" data-logo-default="{{ logo_default }}" data-logo-white="{{ logo_white }}">
     </a>
 
     <!-- 1. Desktop Navigation (Horizontal, with Dropdowns) -->
@@ -70,7 +70,7 @@ Both menus are populated from the `main_navigation` variable in _config.yml.
       <div class="mobile-nav-panel" id="mobile-nav-panel">
         <!-- Logo in the panel -->
         <div class="mobile-nav-logo">
-          <img src="{{ '/images/recomb-logo/RECOMB_logo.svg' | relative_url }}" alt="{{ site.title | escape }}">
+          <img src="{{ '/images/logo/apbjc_logo_tate.ai' | relative_url }}" alt="{{ site.title | escape }}">
         </div>
         <ul>
           {%- assign accordion_index = 0 -%}
