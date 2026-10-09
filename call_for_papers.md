@@ -18,7 +18,7 @@ Editorial Board Information: [https://academic.oup.com/bioinformaticsadvances/pa
 
 Authors are responsible for the processing charges associated with the publication of the proceedings paper.
 
-ISCB members will enjoy a 20% discount off publishing fees.  If you are not an ISCB member, you can learn more about membership and its benefits at https://www.iscb.org/membership-details/member-benefits.
+ISCB members will enjoy a 20% discount off publishing fees.  If you are not an ISCB member, you can learn more about membership and its benefits at [https://www.iscb.org/membership-details/member-benefits](https://www.iscb.org/membership-details/member-benefits).
 
 ## Key Dates
 
