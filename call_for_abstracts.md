@@ -21,7 +21,10 @@ This conference follows the ISCB policy for acceptable use of large language mod
 
 ## Key Dates
  
-
+- **Submission deadline**: {{ site.deadlines.poster_submission }}
+- **Author notification**: {{ site.deadlines.poster_notification }}
+- **Late poster submission deadline**: {{ site.deadlines.late_poster_submission }}
+- **Late poster author notification**: {{ site.deadlines.late_poster_notification }}
 
 ## Topics and Tracks
 
