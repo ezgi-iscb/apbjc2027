@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Call for Highlights
+title: Call for Tutorials
 ---
 
-## Highlights
+## Tutorials
 
 TBA
