@@ -67,11 +67,11 @@ This conference will feature a student-organized symposium before the main confe
 Participants who opt for (1) talk only or (2) talk or poster are required to submit:
 
 * Both a 275-word abstract to be posted on the conference website AND a long abstract of up to two (2) pages in PDF format.
-* 
+
 Participants who opt for (3) poster only are required to submit:
 
 * A 275-word abstract to be posted on the conference website.
-* 
+
 All abstracts must be submitted using the conference submission site by the [deadlines above](#dates).
 
 ## Review Process
