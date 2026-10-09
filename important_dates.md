@@ -6,8 +6,8 @@ title: Important Dates
 ## Proceedings
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
-- **Author notification**: {{ site.deadlines.author_notification }}
-- **Final versions due (accepted papers only)**: {{ site.deadlines.final_version }}
+- **Author notification**: {{ site.deadlines.paper_notification }}
+- **Final versions due (accepted papers only)**: {{ site.deadlines.paper_final_version }}
 
 **Note**: All papers MUST BE submitted by the paper submission deadline. No new submissions will be allowed after this date.
   
@@ -28,7 +28,7 @@ title: Important Dates
 - **Author notification**: {{ site.deadlines.tutorial_notification }}
 - **Draft tutorial materials due**: {{ site.deadlines.tutorial_draft }}
 - **Final tutorial materials due**: {{ site.deadlines.tutorial_final }}
-
+  
 ---
 
 ## Conference Fellowships
