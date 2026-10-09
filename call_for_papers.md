@@ -9,10 +9,10 @@ Submissions are invited for full papers, oral presentation abstracts, and poster
 
 To learn more about Bioinformatics Advances, visit:
 
-General Information: https://academic.oup.com/bioinformaticsadvances
-Submission Information: https://mc.manuscriptcentral.com/bioadv
-Author Guidelines: https://academic.oup.com/bioinformaticsadvances/pages/instructions-to-authors
-Editorial Board Information: https://academic.oup.com/bioinformaticsadvances/pages/editorial-board
+General Information: [https://academic.oup.com/bioinformaticsadvances](https://academic.oup.com/bioinformaticsadvances)
+Submission Information: [https://mc.manuscriptcentral.com/bioadv](https://mc.manuscriptcentral.com/bioadv)
+Author Guidelines: [https://academic.oup.com/bioinformaticsadvances/pages/instructions-to-authors](https://academic.oup.com/bioinformaticsadvances/pages/instructions-to-authors)
+Editorial Board Information: [https://academic.oup.com/bioinformaticsadvances/pages/editorial-board](https://academic.oup.com/bioinformaticsadvances/pages/editorial-board)
 
 ## Publication Fees
 
