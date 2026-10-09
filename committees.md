@@ -11,7 +11,7 @@ page_class: committees-page
 
 ---
 
-## Scientific Programme Co-chairs
+## Scientific Programme Chairs
 
 | [{{ site.team.pc_chair1 }}]({{ site.team.pc_chair1_url }}) | {{ site.team.pc_chair1_institute }} |
 | [{{ site.team.pc_chair2 }}]({{ site.team.pc_chair2_url }}) | {{ site.team.pc_chair2_institute }} |
@@ -32,7 +32,7 @@ page_class: committees-page
 
 ---
 
-## Tutorials Co-chairs
+## Tutorials Chairs
 
 | [{{ site.team.tutorials_chair1 }}]({{ site.team.tutorials_chair1_url }}) | {{ site.team.tutorials_chair1_institute }} |
 | [{{ site.team.tutorials_chair2 }}]({{ site.team.tutorials_chair2_url }}) | {{ site.team.tutorials_chair2_institute }} |
@@ -41,7 +41,7 @@ page_class: committees-page
 
 ---
 
-## Technology Talk Co-chairs
+## Technology Talk Chairs
 
 | [{{ site.team.tt_chair1 }}]({{ site.team.tt_chair1_url }}) | {{ site.team.tt_chair1_institute }} |
 | [{{ site.team.tt_chair2 }}]({{ site.team.tt_chair2_url }}) | {{ site.team.tt_chair2_institute }} |
