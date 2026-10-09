@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<!-- Page Header Banner (similar to recomb2026deprecated) -->
+<!-- Page Header Banner -->
 <section class="page-header-banner" style="background-image: url('{{ "/images/slider/slider-bg-1.jpg" | relative_url }}');">
   <div class="page-header-content">
     <h1>{{ page.title | escape }}</h1>
@@ -22,7 +22,7 @@ layout: base
 <script>
   (function() {
     const header = document.querySelector('.site-header');
-    const logo = header ? header.querySelector('.recomb-logo') : null;
+    const logo = header ? header.querySelector('.apbjc-logo') : null;
     if (!header || !logo) return;
 
     const defaultSrc = logo.dataset.logoDefault;
