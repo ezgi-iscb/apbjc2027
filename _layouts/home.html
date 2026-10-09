@@ -7,7 +7,7 @@ layout: base
   padding: 0; /* Let the hero sit flush with the top of the viewport */
 }
 
-.recomb-hero {
+.apbjc-hero {
     position: relative;
   min-height: 100vh;
   padding: calc(7rem + var(--header-height, 72px)) 1rem 6rem;
@@ -35,44 +35,44 @@ layout: base
   }
   
   /* Target the h1, h2, h3, and p tags *only* inside this hero section */
-  .recomb-hero h1 {
+  .apbjc-hero h1 {
     font-size: 3.5rem;
     font-weight: 700;
     margin: 0;
     color: white !important; /* Override Minima's default link/header color */
   }
-  .recomb-hero h2, .recomb-hero h3 {
+  .apbjc-hero h2, .apbjc-hero h3 {
     font-size: 1.75rem;
     font-weight: 300;
     margin: 0.5rem 0;
     color: white !important;
   }
-  .recomb-hero p {
+  .apbjc-hero p {
     font-size: 1.1rem;
     margin-top: 1.5rem;
     color: white !important;
   }
-  .recomb-hero a {
+  .apbjc-hero a {
     color: white;
     font-weight: bold;
     text-decoration: underline;
   }
 </style>
 
-<!-- <div class="recomb-hero" style="background-image:  url({{ '/images/city/index-bg.jpg' | relative_url }});"> -->
+<!-- <div class="apbjc-hero" style="background-image:  url({{ '/images/city/index-bg.jpg' | relative_url }});"> -->
 
- <div class="recomb-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ "/images/city/index-bg.jpg" | relative_url }}');">
+ <div class="apbjc-hero" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('{{ "/images/city/index-bg.jpg" | relative_url }}');">
   <h1>{{ site.title }}</h1>
   <h2>{{ site.location }}</h2>
   <h3><b>{{ site.deadlines.conference_dates }}</b></h3>
   <p>
-    Stay tuned <a href="https://twitter.com/search?q=%23RECOMB2027" target="_blank">#RECOMB2027</a>
+    Stay tuned <a href="https://twitter.com/search?q=%23APBJC2027" target="_blank">#APBJC2027</a>
     <br>
-    Twitter <a href="https://twitter.com/RECOMBconf" target="_blank">@RECOMBconf</a>
+    Twitter <a href="https://twitter.com/apbjc" target="_blank">@apbjc</a>
     <br>
-    Bluesky <a href="https://bsky.app/profile/recombconf.bsky.social" target="_blank">@RECOMBconf</a>
+    Bluesky <a href="https://bsky.app/profile/apbjc.bsky.social" target="_blank">@apbjc</a>
   </p>
-  <p style="font-weight: bold;"> Satellite Meetings: {{ site.deadlines.satellite_dates }}</p>
+  <p style="font-weight: bold;"> Asia Student Council Symposium: {{ site.deadlines.ascs_dates }}</p>
 </div>
 
 <!-- This {{ content }} tag is what pulls in the content from your index.md file -->
@@ -89,7 +89,7 @@ layout: base
 <script>
   (function() {
     const header = document.querySelector('.site-header');
-    const logo = header ? header.querySelector('.recomb-logo') : null;
+    const logo = header ? header.querySelector('.apbjc-logo') : null;
     if (!header || !logo) return;
 
     const defaultSrc = logo.dataset.logoDefault;
