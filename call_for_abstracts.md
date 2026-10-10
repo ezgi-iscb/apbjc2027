@@ -78,4 +78,4 @@ All abstracts must be submitted using the conference submission site by the [dea
 
 All submissions will be evaluated by a program committee.
 
-Posters advertising commercial software will be rejected from this poster session and/or removed from the conference without notice. There is a separate space for such posters in the exhibition area. If you have an industry poster, contact apbjc@iscb.org.
+Posters advertising commercial software will be rejected from this poster session and/or removed from the conference without notice. There is a separate space for such posters in the exhibition area. If you have an industry poster, contact [apbjc@iscb.org](mailto:apbjc@iscb.org).
