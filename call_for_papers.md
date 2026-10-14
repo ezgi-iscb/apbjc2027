@@ -32,29 +32,18 @@ ISCB members will enjoy a 20% discount off publishing fees.  If you are not an I
 
 A wide definition and inclusion of bioinformatics/computational biology will be considered, and topics of interest include the following:
 
-* Computational Biology Algorithms
-* Application of ML and LLMs in Biosciences
-* Bioinformatics Education
-* Cheminformatics and Drug Design
-* Clinical and Health Informatics
-* Databases, Ontologies, and Biocuration
-* Disease Models and Molecular Medicine
-* Epidemiology and Biodiversity
-* Evolutionary, Comparative Genomics, and Phylogenetics
-* Gene Regulation and Transcriptomics
-* Genome Informatics
-* Imaging Data Analysis
-* Macromolecular Structure and Function
-* Metagenomics
-* Microbiome Informatics
-* Network Biology
-* Proteomics and Metabolomics
-* Sequence Analysis
-* Structural Bioinformatics
-* Synthetic Biology
-* Systems Modeling
-* Text Mining and Natural Language Processing
-* Visualization
+* Protein Structure Analysis, Prediction And Design
+* Personalized Medicine And Computational Genetics
+* Metagenomics And Microbiome Analysis
+* Network Biology And Systems Biology
+* Ethical, Legal And Social Issues(Elsi)
+* Bioinformatics Education & Training
+* Omics-Based Informatics
+* Databases, Ontologies And Biocuration
+* Evolutionary And Comparative Genomics
+* Synthetic Biology And Engineering
+* Emerging Research Areas
+* Other Topics Related to Computational Biology
 
 ## Submission Guidelines
 
