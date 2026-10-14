@@ -7,6 +7,7 @@ title: Important Dates
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
 - **Author notification**: {{ site.deadlines.paper_notification }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.paper_cop }}
 
 **Note**: All papers MUST BE submitted by the paper submission deadline. No new submissions will be allowed after this date.
   
@@ -18,6 +19,7 @@ title: Important Dates
 - **Author notification**: {{ site.deadlines.poster_notification }}
 - **Late abstract submission deadline**: {{ site.deadlines.late_poster_submission }}
 - **Late abstract author notification**: {{ site.deadlines.late_poster_notification }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.poster_cop }}
 
 ---
 
@@ -27,6 +29,7 @@ title: Important Dates
 - **Author notification**: {{ site.deadlines.tutorial_notification }}
 - **Draft tutorial materials due**: {{ site.deadlines.tutorial_draft }}
 - **Final tutorial materials due**: {{ site.deadlines.tutorial_final }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.tutorial_cop }}
   
 ---
 
