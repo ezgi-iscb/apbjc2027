@@ -16,7 +16,7 @@ The train system is currently run by two public transport operators – [SMRT Co
 * SMRT operates the North-South Line, East-West Line, Circle Line, Thomson-East Coast Line and the Bukit Panjang LRT. 
 * SBST operates the North East Line and the Downtown Line, and the Sengkang-Punggol LRT.
 
-[You can plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#paying_for_your_ride).
+[You can plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html).
 
 
 #### Paying for Your Ride
