@@ -4,11 +4,10 @@ title: Local Transportation
 ---
 
 ## Rail Network
-{: style="text-align: center;"}
 
 <figure style="text-align:center;">
   <a href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html" target="_blank" rel="noopener">
-    <img src="{{ '/images/city/railmap.png' | relative_url }}" alt="Rail Map" class="venue-photo">
+    <img src="{{ '/images/city/railmap.png' | relative_url }}" alt="Rail Map">
   </a>
 </figure>
 
