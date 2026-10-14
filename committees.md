@@ -4,7 +4,7 @@ title: Committees
 page_class: committees-page
 ---
 
-## Steering Committee
+## Conference Chairs
 
 | [Niranjan Nagarajan](mailto:niranjan@nus.edu.sg) | National University of Singapore |
 | [Shoba Ranganathan](mailto:shoba.ranganathan1@gmail.com) | Macquarie University |
@@ -19,16 +19,12 @@ page_class: committees-page
 
 ---
 
-## Organizing Committee
+## Local Organizing Chairs
 
 #### Co-chairs
 
 | [{{ site.team.oc_chair1 }}]({{ site.team.oc_chair1_url }}) | {{ site.team.oc_chair1_institute }} |
 | [{{ site.team.oc_chair2 }}]({{ site.team.oc_chair2_url }}) | {{ site.team.oc_chair2_institute }} |
-
-#### Members
-
-| [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
 
 ---
 
@@ -83,16 +79,11 @@ page_class: committees-page
 
 ---
 
-#### Student Volunteers
-
-TBA
-
----
-
-### Program Committee
+### Additional Organizing Committee Members
 
 | Sung Wook Chi | Korea University |
 | Joon Yong An | Korea University |
 | Prajjval Pratap Singh	| Bioclues.org |
+| [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
 
 
