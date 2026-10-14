@@ -14,7 +14,8 @@ title: Conference Venue
 
 #### Transportation by Bus:
 
-Click [here](https://busrouter.sg/bus-arrival/#02151) for live bus network datavpassing through SUNTEC Singapore, and [here](https://busrouter.sg/bus-arrival/#02151) for bus arrival times.
+* [Live bus network data passing by SUNTEC Singapore](https://busrouter.sg/bus-arrival/#02151)
+* [Bus arrival times](https://busrouter.sg/bus-arrival/#02151)
 
 #### Transportation by Railway:
 
