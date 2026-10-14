@@ -12,12 +12,12 @@ title: Conference Venue
 
 ### Transportation to SUNTEC Singapore
 
-#### Transportation by Bus:
+#### By Bus:
 
 * [Live bus network data passing by SUNTEC Singapore](https://busrouter.sg/bus-arrival/#02151)
 * [Bus arrival times](https://busrouter.sg/bus-arrival/#02151)
 
-#### Transportation by Railway:
+#### By Railway:
 
 The "City Hall" station of the EW (Green) and NS (Red) lines, the "Esplanade" station of the CC (Yellow) line, or the "Promenade" station of the DT (Blue) line are the closest railway stations to SUNTEC.
 
