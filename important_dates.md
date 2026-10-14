@@ -7,18 +7,17 @@ title: Important Dates
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
 - **Author notification**: {{ site.deadlines.paper_notification }}
-- **Final versions due (accepted papers only)**: {{ site.deadlines.paper_final_version }}
 
 **Note**: All papers MUST BE submitted by the paper submission deadline. No new submissions will be allowed after this date.
   
 ---
 
-## Posters
+## Abstracts - Short Talk and Posters
 
 - **Submission deadline**: {{ site.deadlines.poster_submission }}
 - **Author notification**: {{ site.deadlines.poster_notification }}
-- **Late poster submission deadline**: {{ site.deadlines.late_poster_submission }}
-- **Late poster author notification**: {{ site.deadlines.late_poster_notification }}
+- **Late abstract submission deadline**: {{ site.deadlines.late_poster_submission }}
+- **Late abstract author notification**: {{ site.deadlines.late_poster_notification }}
 
 ---
 
@@ -31,6 +30,13 @@ title: Important Dates
   
 ---
 
+## Tech Track
+
+- **Proposal deadline**: {{ site.deadlines.tt_proposal }}
+- **Author notification**: {{ site.deadlines.tt_notification }}
+- **Tech track payments due**: {{ site.deadlines.tt_payments }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.tt_cop }}
+
 ## Conference Fellowships
 
 - **Application deadline**: {{ site.deadlines.conference_fellow_application }}
@@ -42,7 +48,8 @@ title: Important Dates
   
 - **Presenter Registration deadline**: {{ site.deadlines.presenter_registration }}
 - **Tutorial Registration deadline**: {{ site.deadlines.tutorial_registration }}
-- 
+- **Tech Track Registration deadline**: {{ site.deadlines.tt_registration }}
+
 - **Early Bird Registration deadline**: {{ site.deadlines.early_registration }}
 - **Late Registration**: {{ site.deadlines.late_registration }}
 
