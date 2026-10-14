@@ -4,9 +4,12 @@ title: Local Transportation
 ---
 
 ## Rail Network
+{: style="text-align: center;"}
 
 <figure style="text-align:center;">
-  <img src="{{ '/images/city/railmap.png' | relative_url }}" alt="Rail Map" class="venue-photo">
+  <a href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html" target="_blank" rel="noopener">
+    <img src="{{ '/images/city/railmap.png' | relative_url }}" alt="Rail Map" class="venue-photo">
+  </a>
 </figure>
 
 Today, more than 140 stations across six MRT lines span the island. This 200km system has over three million daily ridership. In addition, there are more than 40 stations across two LRT lines and this 28km system has over 200 thousand daily ridership.
