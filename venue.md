@@ -3,7 +3,7 @@ layout: page
 title: Conference Venue
 ---
 
-{%- assign venue_path = "/images/city/venue.png" | relative_url -%}
+{%- assign venue_path = "/images/city/venue.jpeg" | relative_url -%}
 
 ## APBJC 2027 will be held in [SUNTEC Singapore](https://www.suntecsingapore.com/).
 {: style="text-align: center;"}
