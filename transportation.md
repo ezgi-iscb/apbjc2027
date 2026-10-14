@@ -20,7 +20,7 @@ The train system is currently run by two public transport operators – [SMRT Co
 [You can plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html#paying_for_your_ride).
 
 
-### Paying for Your Ride
+#### Paying for Your Ride
 
 Use a stored value EZ-Link card/NETS Prepaid card/Concession card or SimplyGo EZ-Link/Concession card where fares are charged based on distance travelled. 
 
@@ -29,3 +29,19 @@ If you are paying adult fare, you may also use your American Express, Mastercard
 Please note that single trip tickets have been phased out since March 2022.
 
 \*\ *ApplePay, Google Pay, SamsungPay, Fitbit Pay, Garmin Pay, Singtel Dash*
+
+---
+
+## Bus Network
+
+Weaving into the heartlands, business hubs and tourist attractions, buses bring you closer to your destination. They are one of the most convenient and accessible modes of public transport in Singapore.
+
+Please visit the [Bus Router Singapore website](https://busrouter.sg/?lng=en#/) for detailed route and bus stop information.
+
+---
+
+For more information about getting around in Singapore, visit the [Land Transport Authority website](https://www.lta.gov.sg/content/ltagov/en/getting_around.html).
+
+
+
+
