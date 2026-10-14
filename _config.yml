@@ -10,7 +10,7 @@ country: "Singapore"
 #
 author:  
    name: ISCB  
-   email: apbjc@iscb.org
+   email: apbjc-event@iscb.org
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
@@ -70,7 +70,7 @@ minima:
 social_links:
     - title: Email 
       icon: envelope
-      url: "mailto:apbjc@iscb.org"
+      url: "mailto:apbjc-event@iscb.org"
     - title: APBJC at X 
       icon: x-twitter
       url: "https://x.com/"
