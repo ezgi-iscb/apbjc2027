@@ -6,7 +6,7 @@ title: Local Transportation
 ## Rail Network
 
 <figure style="text-align:center;">
-  <img src="/images/city/railmap.png" alt="Alt text" width="400">
+  <img src="/images/city/railmap.png" width="400">
   <figcaption>Singapore Rail Map</figcaption>
 </figure>
 
