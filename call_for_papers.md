@@ -24,7 +24,7 @@ ISCB members will enjoy a 20% discount off publishing fees.  If you are not an I
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
 - **Author notification**: {{ site.deadlines.paper_notification }}
-- **Final versions due (accepted papers only)**: {{ site.deadlines.paper_final_version }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.paper_cop }}
 
 **Note**: All papers MUST BE submitted by the paper submission deadline. No new submissions will be allowed after this date.
 
