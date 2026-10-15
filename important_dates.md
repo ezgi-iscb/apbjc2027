@@ -40,6 +40,8 @@ title: Important Dates
 - **Tech track payments due**: {{ site.deadlines.tt_payments }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.tt_cop }}
 
+---
+
 ## Conference Fellowships
 
 - **Application deadline**: {{ site.deadlines.conference_fellow_application }}
