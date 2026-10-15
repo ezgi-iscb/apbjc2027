@@ -84,6 +84,6 @@ page_class: committees-page
 | Sung Wook Chi | Korea University |
 | Joon Yong An | Korea University |
 | Prajjval Pratap Singh	| Bioclues.org |
-| [{{ site.team.oc_member1 }}]({{ site.team.oc_member1_url }}) | {{ site.team.oc_member1_institute }} |
+| Nurul Salwanie | APBioNET  |
 
 
