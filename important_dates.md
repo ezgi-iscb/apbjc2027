@@ -5,7 +5,7 @@ title: Important Dates
 
 ## Proceedings
 
-- **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
+- **Paper submission deadline**: {{ site.deadlines.paper_submission }}
 - **Author notification**: {{ site.dates.paper_notification }}
 - **Confirmation of participation notices sent**: {{ site.dates.cop }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
