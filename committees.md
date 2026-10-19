@@ -46,6 +46,9 @@ page_class: committees-page
 
 ## Area Chairs
 
+TBA
+
+<!--
 | Limsoon Wong | National University of Singapore |
 | Sung Wook Chi | Korea University |
 | Joon Yong An | Korea University |
@@ -77,6 +80,7 @@ page_class: committees-page
 | Shyam Prabhakar | GIS (A*STAR) |
 | Laxmi Parida | IBM |
 
+-->
 ---
 
 ### Additional Organizing Committee Members
