@@ -75,7 +75,7 @@ title: Important Dates
 
 ## Conference
 
-- **Conference**: {{ site.dates.conference }}
+- **APBJC**: {{ site.dates.conference }}
 - **Asian Student Council Symposium**: {{ site.dates.ascs }}
 
 ---
