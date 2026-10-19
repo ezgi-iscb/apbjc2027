@@ -19,7 +19,7 @@ title: Important Dates
 
 ## Abstracts - Short Talk and Posters
 
-- **Submission deadline**: {{ site.deadlines.abstract_submission }}
+- **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
 - **Author notification**: {{ site.dates.abstract_notification }}
 - **Late abstract submission deadline**: {{ site.deadlines.late_abstract_submission }}
 - **Late abstract author notification**: {{ site.dates.late_abstract_notification }}
