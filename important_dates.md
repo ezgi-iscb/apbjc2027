@@ -7,9 +7,9 @@ title: Important Dates
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }}
 - **Author notification**: {{ site.dates.paper_notification }}
-- **Confirmation of participation notices sent**: {{ site.dates.cop }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
-- **Presenter registration deadline**: {{ site.deadlines.registration }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
 - **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
 - **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
@@ -23,9 +23,9 @@ title: Important Dates
 - **Author notification**: {{ site.dates.abstract_notification }}
 - **Late abstract submission deadline**: {{ site.deadlines.late_abstract_submission }}
 - **Late abstract author notification**: {{ site.dates.late_abstract_notification }}
-- **Confirmation of participation notices sent**: {{ site.dates.cop }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
-- **Presenter registration deadline**: {{ site.deadlines.registration }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
 - **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
 - **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
@@ -37,7 +37,7 @@ title: Important Dates
 - **Acceptance notifications sent**: {{ site.dates.tutorial_notification }}
 - **Draft tutorial materials due**: {{ site.deadlines.tutorial_draft }}
 - **Final tutorial materials due**: {{ site.deadlines.tutorial_final }}
-- **Confirmation of participation notices sent**: {{ site.dates.cop }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
 - **Tutorial registration deadline**: {{ site.deadlines.tutorial_registration }}
   
@@ -48,9 +48,9 @@ title: Important Dates
 - **Proposal deadline**: {{ site.deadlines.tt_proposal }}
 - **Author notification**: {{ site.dates.tt_notification }}
 - **Tech track payments due**: {{ site.deadlines.tt_payments }}
-- **Confirmation of participation notices sent**: {{ site.dates.cop }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
-- **Presenter registration deadline**: {{ site.deadlines.registration }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
 - **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
 - **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
