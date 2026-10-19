@@ -164,8 +164,7 @@ deadlines:
   registration_refund: "TBA"
   discounted_student_hotel: "TBA"
   discounted_hotel: "August 23, 2027, 23:59 AoE"
-  conference_fellow_application: "July 29, 2027, 23:59 AoE"
-  conference_fellow_notification: "August 9, 2027"
+  fellow_application: "July 29, 2027, 23:59 AoE"
 
 dates:
   conference: "September 28 - October 1, 2027"
@@ -179,6 +178,7 @@ dates:
   tutorial_notification: "April 12, 2027"
   tt_notification: "July 26, 2027"
   late_abstract_notification: "August 16, 2027"
+  fellow_notification: "August 9, 2027"
   cop_notices_sent: "August 23, 2027, 23:59 AoE"
   virtual_uploads_open: "August 25, 2027"
   
