@@ -68,7 +68,7 @@ title: Important Dates
 - **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
 - **Tutorial registration deadline**: {{ site.deadlines.tutorial_registration }} (If not sold out.)
 
-- **Last day of booking the student hotel at the discounted rate**: {{ site.deadlines.discounted_hotel }}
+- **Last day of booking the student hotel at the discounted rate**: {{ site.deadlines.discounted_student_hotel }}
 - **Last day of booking the conference hotel at the discounted rate**: {{ site.deadlines.discounted_hotel }}
 
 ---
