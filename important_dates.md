@@ -13,7 +13,7 @@ title: Important Dates
 - **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
 - **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
-**Note**: There will be **no extensions** to the paper submission and virtual platform upload deadlines. All papers must be submitted by the paper submission deadline, and all files must be uploaded to the virtual platform by the virtual platform uploads deadline.
+**Note**: There will be **no extensions** to the paper submission and virtual platform upload deadlines. All papers **must be submitted** by the *paper submission deadline*, and all files **must be uploaded** to the virtual platform by the *virtual platform uploads deadline*.
   
 ---
 
