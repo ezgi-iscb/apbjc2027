@@ -59,24 +59,21 @@ title: Important Dates
 ## Conference Fellowships
 
 - **Application deadline**: {{ site.deadlines.conference_fellow_application }}
-- **Notification**: {{ site.deadlines.conference_fellow_notification }}
+- **Notification**: {{ site.dates.conference_fellow_notification }}
 
 ---
 
 ## Registration
   
-- **Presenter Registration deadline**: {{ site.deadlines.presenter_registration }}
-- **Tutorial Registration deadline**: {{ site.deadlines.tutorial_registration }}
-- **Tech Track Registration deadline**: {{ site.deadlines.tt_registration }}
-
-- **Early Bird Registration deadline**: {{ site.deadlines.early_registration }}
-- **Late Registration**: {{ site.deadlines.late_registration }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
+- **Discounted conference hotel booking deadline**: {{ site.deadlines.discounted_hotel }}
+- **Tutorial registration deadline**: {{ site.deadlines.tutorial_registration }} (If not sold out.)
 
 ---
 
 ## Conference
 
-- **Conference**: {{ site.deadlines.conference_dates }}
-- **Asian Student Council Symposium**: {{ site.deadlines.ascs_dates }}
+- **Conference**: {{ site.dates.conference }}
+- **Asian Student Council Symposium**: {{ site.dates.ascs }}
 
 ---
