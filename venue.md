@@ -21,6 +21,4 @@ title: Conference Venue
 
 The "City Hall" station of the EW (Green) and NS (Red) lines, the "Esplanade" station of the CC (Yellow) line, or the "Promenade" station of the DT (Blue) line are the closest railway stations to SUNTEC.
 
----
-
-[You can plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html).
+[You can also plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html).
