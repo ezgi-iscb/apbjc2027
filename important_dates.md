@@ -58,8 +58,8 @@ title: Important Dates
 
 ## Conference Fellowships
 
-- **Application deadline**: {{ site.deadlines.conference_fellow_application }}
-- **Notification**: {{ site.dates.conference_fellow_notification }}
+- **Application deadline**: {{ site.deadlines.fellow_application }}
+- **Notification**: {{ site.dates.fellow_notification }}
 
 ---
 
