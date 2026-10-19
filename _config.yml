@@ -161,8 +161,9 @@ deadlines:
   virtual_uploads: "September 20, 2027, 23:59 AoE"
   presenter_registration: "August 23, 2027, 23:59 AoE"
   tutorial_registration: "September 8, 2027, 23:59 AoE"
-  early_registration: "TBA"
-  late_registration: "TBA"
+  registration_refund: "TBA"
+  discounted_student_hotel: "TBA"
+  discounted_hotel: "August 23, 2027, 23:59 AoE"
   conference_fellow_application: "July 29, 2027, 23:59 AoE"
   conference_fellow_notification: "August 9, 2027"
 
