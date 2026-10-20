@@ -7,10 +7,10 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
-| 9:00 AM - 4:30 PM | 🎓 **Student Council Symposium** |
-| 9:00 AM - 4:00 PM | 🛠️ **Tutorials / Workshop** |
-| 5:00 PM | 🎤 **Conference Opening and Keynote** |
-| 6:30 PM | 🥂 **Welcome Reception** |
+| 9:00 AM - 4:30 PM | **Student Council Symposium** |
+| 9:00 AM - 4:00 PM | **Tutorials / Workshop** |
+| 5:00 PM | **Conference Opening and Keynote** |
+| 6:30 PM | **Welcome Reception** |
 
 ---
 
@@ -18,13 +18,13 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
-| 9:00 AM - 10:00 AM | 🎤 **Keynote** |
-| 10:00 AM - 11:30 AM | 🖼️ **Posters and Break** |
-| 11:30 AM - 1:00 PM | 🔬 **Scientific Sessions** (6 talks) |
-| 1:00 PM - 2:15 PM | 🍽️ **Lunch Break** (lunch on own) |
-| 2:15 PM - 3:30 PM | 🔬 **Scientific Sessions** (5 talks) |
-| 3:30 PM - 4:00 PM | ☕ **Break** |
-| 4:00 PM - 5:30 PM | 🔬 **Scientific Sessions** (6 talks) |
+| 9:00 AM - 10:00 AM | **Keynote** |
+| 10:00 AM - 11:30 AM | **Posters and Break** |
+| 11:30 AM - 1:00 PM | **Scientific Sessions** (6 talks) |
+| 1:00 PM - 2:15 PM | **Lunch Break** (lunch on own) |
+| 2:15 PM - 3:30 PM | **Scientific Sessions** (5 talks) |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Scientific Sessions** (6 talks) |
 
 ---
 
@@ -32,13 +32,13 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
-| 9:00 AM - 10:00 AM | 🎤 **Keynote** |
-| 10:00 AM - 11:30 AM | 🖼️ **Posters and Break** |
-| 11:30 AM - 1:00 PM | 🔬 **Scientific Sessions** (6 talks) |
-| 1:00 PM - 2:15 PM | 🍽️ **Lunch Break** (lunch on own) |
-| 2:15 PM - 3:30 PM | 🔬 **Scientific Sessions** (5 talks) |
-| 3:30 PM - 4:00 PM | ☕ **Break** |
-| 4:00 PM - 5:30 PM | 🔬 **Scientific Sessions** (6 talks) |
+| 9:00 AM - 10:00 AM | **Keynote** |
+| 10:00 AM - 11:30 AM | **Posters and Break** |
+| 11:30 AM - 1:00 PM | **Scientific Sessions** (6 talks) |
+| 1:00 PM - 2:15 PM | **Lunch Break** (lunch on own) |
+| 2:15 PM - 3:30 PM | **Scientific Sessions** (5 talks) |
+| 3:30 PM - 4:00 PM | **Break** |
+| 4:00 PM - 5:30 PM | **Scientific Sessions** (6 talks) |
 
 ---
 
@@ -46,10 +46,10 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
-| 9:00 AM - 10:30 AM | 🔬 **Scientific Sessions / Special Session** |
-| 10:30 AM - 11:15 AM | ☕ **Break** |
-| 11:15 AM - 1:15 PM | 🔬 **Scientific Sessions** (6 talks) |
-| 1:15 PM - 3:00 PM | 🏆 **Closing Luncheon** with keynote/panel and awards |
+| 9:00 AM - 10:30 AM | **Scientific Sessions / Special Session** |
+| 10:30 AM - 11:15 AM | **Break** |
+| 11:15 AM - 1:15 PM | **Scientific Sessions** (6 talks) |
+| 1:15 PM - 3:00 PM | **Closing Luncheon** with keynote/panel and awards |
 
 ---
 
