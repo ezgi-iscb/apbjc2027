@@ -33,12 +33,12 @@ title: Scientific Programme
 | Time | Event |
 |---|---|
 | 9:00 AM - 10:00 AM | **Keynote** |
-| 10:00 AM - 11:30 AM | **Posters and Break** |
-| 11:30 AM - 1:00 PM | **Scientific Sessions** (6 talks) |
-| 1:00 PM - 2:15 PM | **Lunch Break** (lunch on own) |
-| 2:15 PM - 3:30 PM | **Scientific Sessions** (5 talks) |
-| 3:30 PM - 4:00 PM | **Break** |
-| 4:00 PM - 5:30 PM | **Scientific Sessions** (6 talks) |
+| 10:00 AM - 10:30 AM | **Break** |
+| 10:30 AM - 12:00 PM | **Scientific Sessions** (6 talks) |
+| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |
+| 1:15 PM - 2:30 PM | **Scientific Sessions** (5 talks) |
+| 2:30 PM - 3:45 PM | **Posters and Break** |
+| 3:45 PM - 5:30 PM | **Scientific Sessions** (7 talks) |
 
 ---
 
