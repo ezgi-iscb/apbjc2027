@@ -24,7 +24,7 @@ If you are paying adult fare, you may also use your American Express, Mastercard
 
 Please note that single trip tickets have been phased out since March 2022.
 
-\*\ *ApplePay, Google Pay, SamsungPay, Fitbit Pay, Garmin Pay, Singtel Dash*
+##### \* ApplePay, Google Pay, SamsungPay, Fitbit Pay, Garmin Pay, Singtel Dash
 
 ---
 
