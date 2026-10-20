@@ -85,9 +85,12 @@ TBA
 
 ### Additional Organizing Committee Members
 
+TBA
+
+<!--
 | Sung Wook Chi | Korea University |
 | Joon Yong An | Korea University |
 | Prajjval Pratap Singh	| Bioclues.org |
 | Nurul Salwanie | APBioNET  |
 
-
+-->
