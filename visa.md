@@ -32,7 +32,7 @@ Singapore's visa rules depend on your **nationality**. Many nationalities can en
 1. **Confirm** on the ICA website that your nationality requires a visa.
 2. **Apply early.** Visa applications are usually submitted through an ICA-authorised agent or a Singapore embassy or high commission, and processing can take several days or longer.
 3. **Prepare your documents.** These typically include a valid passport, a passport-style photo, travel details, and proof of accommodation. Requirements vary, so check what applies to you.
-4. **Request an invitation letter** if you need one. *(Replace this line with your event's instructions, e.g. "Email [contact] to request a Letter of Invitation after registration is complete.")*
+4. **Request an invitation letter**. Email {{ site.author_email }} to request a Letter of Invitation after registration is complete.
 5. **Wait for approval** before booking non-refundable flights.
 
 Approval is at the sole discretion of ICA, and fees and processing times may vary.
