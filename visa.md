@@ -39,13 +39,6 @@ Approval is at the sole discretion of ICA, and fees and processing times may var
 
 ---
 
-#### Transit Through Singapore
-
-- If you stay in the **transit area** of Changi Airport and do not clear immigration, you generally do not need an SG Arrival Card.
-- If you leave the transit area (for example, for a long layover), you must meet the normal entry requirements, submit the SG Arrival Card, and clear immigration.
-
----
-
 #### Useful Links
 
 - [ICA: Visa Requirements](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)
