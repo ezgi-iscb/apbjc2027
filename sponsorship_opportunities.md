@@ -3,7 +3,10 @@ layout: page
 title: Sponsorship Opportunities
 ---
 
-#### We welcome the participation of institutes and companies as sponsors of APBJC 2027
+TBA
+
+<!--
+#### We welcome the participation of institutes and companies as sponsors of APBJC 2027.
 
 APBJC info here.
 
@@ -18,3 +21,4 @@ APBJC info here.
 
 Other forms of sponsorships (e.g., sponsoring coffee breaks, etc. are also welcomed) please contact the Sponsorships Chair [{{ site.team.industry_chair }}](mailto:{{ site.team.industry_chair_email }}).	
 
+-->
