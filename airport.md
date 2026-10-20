@@ -16,6 +16,8 @@ title: Airport Directions
 
 #### Transportation Options
 
+[You can plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html).
+
 ##### 🚌 By Bus
 
 - **Where:** Public bus stops are at the basement of Terminal 1 and Terminal 3 and at the ground level of Terminal 2. Terminal 4 has its own bus stop.
