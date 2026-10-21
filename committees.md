@@ -30,23 +30,29 @@ page_class: committees-page
 
 ## Tutorials Chairs
 
+TBD
+<!--
 | [{{ site.team.tutorials_chair1 }}]({{ site.team.tutorials_chair1_url }}) | {{ site.team.tutorials_chair1_institute }} |
 | [{{ site.team.tutorials_chair2 }}]({{ site.team.tutorials_chair2_url }}) | {{ site.team.tutorials_chair2_institute }} |
 | [{{ site.team.tutorials_chair3 }}]({{ site.team.tutorials_chair3_url }}) | {{ site.team.tutorials_chair3_institute }} |
 | [{{ site.team.tutorials_chair4 }}]({{ site.team.tutorials_chair4_url }}) | {{ site.team.tutorials_chair4_institute }} |
+-->
 
 ---
 
 ## Technology Talk Chairs
 
+TBD
+<!--
 | [{{ site.team.tt_chair1 }}]({{ site.team.tt_chair1_url }}) | {{ site.team.tt_chair1_institute }} |
 | [{{ site.team.tt_chair2 }}]({{ site.team.tt_chair2_url }}) | {{ site.team.tt_chair2_institute }} |
+-->
 
 ---
 
 ## Area Chairs
 
-TBA
+TBD
 
 <!--
 | Limsoon Wong | National University of Singapore |
@@ -85,7 +91,7 @@ TBA
 
 ### Additional Organizing Committee Members
 
-TBA
+TBD
 
 <!--
 | Sung Wook Chi | Korea University |
