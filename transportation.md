@@ -11,7 +11,7 @@ title: Local Transportation
   </a>
 </figure>
 
-More than 140 stations across six MRT lines and 40 stations across two LRT lines span the island. The [Land Transport Authority website](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html) has more information about the rail network, as well as downloadable maps.
+More than 140 stations across six MRT lines and 40 stations across two LRT lines span the island. The [Land Transport Authority website](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/rail_network.html) has more information about the rail network as well as downloadable maps.
 
 [You can additionally plan your journey by using LTA's journey planner or transport tools](https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html).
 
