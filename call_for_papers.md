@@ -22,11 +22,15 @@ ISCB members will enjoy a 20% discount off publishing fees.  If you are not an I
 
 ## Key Dates
 
-- **Paper submission deadline**: {{ site.deadlines.paper_submission }} (updates to existing submissions only)
-- **Author notification**: {{ site.deadlines.paper_notification }}
-- **Confirmation of participation form submission deadline**: {{ site.deadlines.paper_cop }}
+- **Paper submission deadline**: {{ site.deadlines.paper_submission }}
+- **Author notification**: {{ site.d.paper_natesotification }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
+- **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
+- **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
-**Note**: All papers MUST BE submitted by the paper submission deadline. No new submissions will be allowed after this date.
+**Note**: There will be **no extensions** to the paper submission and virtual platform upload deadlines. All papers **must be submitted** by the paper submission deadline, and all files **must be uploaded** to the virtual platform by the virtual platform uploads deadline.
 
 ## Topics
 
