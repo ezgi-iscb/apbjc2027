@@ -21,11 +21,15 @@ This conference follows the ISCB policy for acceptable use of large language mod
 
 ## Key Dates
  
-- **Submission deadline**: {{ site.deadlines.poster_submission }}
-- **Author notification**: {{ site.deadlines.poster_notification }}
-- **Late poster submission deadline**: {{ site.deadlines.late_poster_submission }}
-- **Late poster author notification**: {{ site.deadlines.late_poster_notification }}
-- **Confirmation of participation form submission deadline**: {{ site.deadlines.poster_cop }}
+- **Abstract submission deadline**: {{ site.deadlines.abstract_submission }}
+- **Author notification**: {{ site.dates.abstract_notification }}
+- **Late abstract submission deadline**: {{ site.deadlines.late_abstract_submission }}
+- **Late abstract author notification**: {{ site.dates.late_abstract_notification }}
+- **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
+- **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
+- **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
+- **Virtual platform uploads open**: {{ site.dates.virtual_uploads_open }}
+- **Virtual platform uploads deadline**: {{ site.deadlines.virtual_uploads }}
 
 ## Topics and Tracks
 
@@ -59,7 +63,7 @@ Submiters may choose to have their submission reviewed for:
 2. Talk or Poster
 3. Poster only
    
-If you select talk or poster, and are unsuccessful for a talk, your abstract will automatically be considered for a poster presentation.  Deadlines are [posted above](#dates).
+If you select talk or poster, and are unsuccessful for a talk, your abstract will automatically be considered for a poster presentation. Deadlines are [posted above](#dates).
 
 <span style="color:red">Poster only submissions DO NOT require any materials to be uploaded during submission. Submissions are evaluated on the 275 word text abstract provided during submission.</span>
 
