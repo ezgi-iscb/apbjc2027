@@ -19,9 +19,4 @@ The Asia-Pacific region has a strong need for the continued development of bioin
 ---
 ## Get in touch
 
-### Contact details
-
-- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
-- X: [@apbjc](https://x.com/apbjc)
-- Bluesky: [@apbjc](https://bsky.app/profile/apbjc.bsky.social)
-- LinkedIn: [@apbjc](https://linkedin.com/company/apbjc)
+Contact us at [{{ site.author.email }}](mailto:{{ site.author.email }}).
