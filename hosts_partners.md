@@ -14,8 +14,6 @@ title: Host & Partner Organizations
 {%- assign aasbi_path = "/images/sponsors-partners/aasbi.jpg" | relative_url -%}
 {%- assign goblet_path = "/images/sponsors-partners/goblet.png" | relative_url -%}
 
-# APBJC 2027 Host and Partner Organizations
-
 We would like to thank our host and partner organizations for their generous support.
 
 ---
