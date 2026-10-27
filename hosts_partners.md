@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Host Organizations & Partners
+title: Host & Partner Organizations
 ---
 
 {%- assign iscb_path = "/images/sponsors-partners/iscb.jpg" | relative_url -%}
@@ -14,7 +14,9 @@ title: Host Organizations & Partners
 {%- assign aasbi_path = "/images/sponsors-partners/aasbi.jpg" | relative_url -%}
 {%- assign goblet_path = "/images/sponsors-partners/goblet.png" | relative_url -%}
 
-# APBJC 2027 Host Organizations and Partners
+# APBJC 2027 Host and Partner Organizations
+
+We would like to thank our host and partner organizations for their generous support.
 
 ---
 
