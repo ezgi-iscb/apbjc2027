@@ -138,7 +138,7 @@ main_navigation:
         url: /visa
   - title: Sponsors
     children:
-      - title: Host Organizations & Partners
+      - title: Host & Partner Organizations
         url: /hosts_partners
       - title: Sponsors
         url: /sponsors
