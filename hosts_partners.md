@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hosts & Partners
+title: Host Organizations & Partners
 ---
 
 {%- assign iscb_path = "/images/sponsors-partners/iscb.jpg" | relative_url -%}
