@@ -136,13 +136,13 @@ main_navigation:
         url: /transportation
       - title: Visa Information
         url: /visa
-  - title: Sponsors & Partners
+  - title: Sponsors
     children:
-      - title: APBJC Host Organizations & Partners
+      - title: Host Organizations & Partners
         url: /hosts_partners
-      - title: APBJC Sponsors
+      - title: Sponsors
         url: /sponsors
-      - title: APBJC Exhibitors
+      - title: Exhibitors
         url: /exhibitors
       - title: Sponsorship Opportunities
         url: /sponsorship_opportunities
