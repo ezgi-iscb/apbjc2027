@@ -44,8 +44,8 @@ APBJC 2027 would like to thank our host and partner organizations for their gene
 
 <br><br>
 
-<img src="{{ iscb_china_path }}" alt="ISCB-China" class="sponsor-logo" style="width: 23%; height: auto;">
-<img src="{{ goblet_path }}" alt="GOBLET" class="sponsor-logo" style="width: 28%; height: auto;">
+<img src="{{ iscb_china_path }}" alt="ISCB-China" class="sponsor-logo" style="width: 22%; height: auto;">
+<img src="{{ goblet_path }}" alt="GOBLET" class="sponsor-logo" style="width: 30%; height: auto;">
 
 </div>
 
