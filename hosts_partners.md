@@ -52,7 +52,7 @@ APBJC 2027 would like to thank our host and partner organizations for their gene
 
 <br><br>
 
-<img src="{{ ksbi_path }}" alt="Korean Society of Bioinformatics" class="sponsor-logo">
+<img src="{{ ksbi_path }}" alt="Korean Society of Bioinformatics" class="sponsor-logo" width="60">
 
 <br><br>
 
