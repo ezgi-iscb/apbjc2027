@@ -40,15 +40,15 @@ APBJC 2027 would like to thank our host and partner organizations for their gene
 
 <div align="center">
 
-<img src="{{ apbians_path }}" alt="Asia Pacific Bioinformatics Interaction and Networking Society" class="sponsor-logo">
+<img src="{{ apbians_path }}" alt="Asia Pacific Bioinformatics Interaction and Networking Society" class="sponsor-logo" width="80">
 
 <br><br>
 
-<img src="{{ bioclues_path }}" alt="Bioclues org" class="sponsor-logo">
+<img src="{{ bioclues_path }}" alt="Bioclues org" class="sponsor-logo" width="80">
 
 <br><br>
 
-<img src="{{ iscb_china_path }}" alt="ISCB-China" class="sponsor-logo">
+<img src="{{ iscb_china_path }}" alt="ISCB-China" class="sponsor-logo" width="60">
 
 <br><br>
 
@@ -56,11 +56,11 @@ APBJC 2027 would like to thank our host and partner organizations for their gene
 
 <br><br>
 
-<img src="{{ aasbi_path }}" alt="Association of Asian Societies for Bioinformatics" class="sponsor-logo">
+<img src="{{ aasbi_path }}" alt="Association of Asian Societies for Bioinformatics" class="sponsor-logo" width="80">
 
 <br><br>
 
-<img src="{{ goblet_path }}" alt="GOBLET" class="sponsor-logo">
+<img src="{{ goblet_path }}" alt="GOBLET" class="sponsor-logo" width="60">
 
 </div>
 
