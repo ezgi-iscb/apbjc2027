@@ -3,6 +3,17 @@ layout: home
 title: APBJC 2027
 ---
 
+{%- assign iscb_path = "/images/sponsors-partners/iscb.jpg" | relative_url -%}
+{%- assign jsbi_path = "/images/sponsors-partners/jsbi.jpg" | relative_url -%}
+{%- assign apbionet_path = "/images/sponsors-partners/apbionet.png" | relative_url -%}
+
+{%- assign apbians_path = "/images/sponsors-partners/apbians.png" | relative_url -%}
+{%- assign bioclues_path = "/images/sponsors-partners/bioclues.jpeg" | relative_url -%}
+{%- assign iscb_china_path = "/images/sponsors-partners/iscb_china.jpg" | relative_url -%}
+{%- assign ksbi_path = "/images/sponsors-partners/ksbi2.png" | relative_url -%}
+{%- assign aasbi_path = "/images/sponsors-partners/aasbi.jpg" | relative_url -%}
+{%- assign goblet_path = "/images/sponsors-partners/goblet.png" | relative_url -%}
+
 <center>
 <h1>About {{ site.title }}</h1> 
 </center>
