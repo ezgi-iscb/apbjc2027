@@ -22,11 +22,11 @@ APBJC 2027 would like to thank our host and partner organizations for their gene
 
 <div align="center">
 
-<img src="{{ iscb_path }}" alt="International Society for Computational Biology" class="sponsor-logo" style="width: 33%; height: auto;">
+<img src="{{ iscb_path }}" alt="International Society for Computational Biology" class="sponsor-logo" style="width: 32%; height: auto;">
 
-<img src="{{ jsbi_path }}" alt="Japanese Society for Bioinformatics" class="sponsor-logo" style="width: 33%; height: auto;">
+<img src="{{ jsbi_path }}" alt="Japanese Society for Bioinformatics" class="sponsor-logo" style="width: 32%; height: auto;">
 
-<img src="{{ apbionet_path }}" alt="APBioNET" class="sponsor-logo" style="width: 33%; height: auto;">
+<img src="{{ apbionet_path }}" alt="APBioNET" class="sponsor-logo" style="width: 32%; height: auto;">
 
 </div>
 
