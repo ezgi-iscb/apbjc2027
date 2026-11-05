@@ -69,40 +69,46 @@ details p {
 }
 
 .program-table {
-  width: 100%;
+  width: auto;                // fits the content instead of stretching across the page
   border-collapse: collapse;
   font-size: 0.95rem;
+  color: #000;
+  background: #fff;
 
   th, td {
-    padding: 0.7rem 0.9rem;
-    border: 1px solid #000000;
+    padding: 0.4rem 0.7rem;   // reduce these to tighten further
+    border: none;
+    border-bottom: 1px solid #000;
+    background: #fff;
     vertical-align: middle;
   }
 
+  // Black header row
   thead th {
-    background: #000000;
-    color: #ffffff;
-    text-align: center;
+    background: #000;
+    color: #fff;
+    text-align: left;
+    border-bottom: none;
   }
-  thead th:first-child { text-align: left; }
 
+  // Time column
   tbody th {
     white-space: nowrap;
-    background: #ffffff;
-    color: #000000;
     text-align: left;
-    font-weight: 600;
+    font-weight: 700;
   }
 
-  td.track-a {}
-  td.track-b {}
-   
+  // Rows that apply to everyone are centered across both sessions
   tr.shared td {
     text-align: center;
   }
 
-  tr.highlight td {
-    font-size: 1.05rem;
+  // The divider between parallel sessions
+  td.sep {
+    width: 1.5rem;
+    padding: 0 0.2rem;
+    text-align: center;
+    font-size: 0.6rem;
   }
 }
 
