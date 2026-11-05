@@ -16,7 +16,7 @@ title: Scientific Programme
   <tbody>
     <tr class="shared">
       <td scope="row">8:00 - 9:00 AM</td>
-      <td colspan="2">📝 <strong>Registration</strong></td>
+      <td colspan="2"><strong>Registration</strong></td>
     </tr>
     <tr>
       <td scope="row">9:00 - 10:00 AM</td>
@@ -25,7 +25,7 @@ title: Scientific Programme
     </tr>
     <tr class="shared">
       <td scope="row">10:00 - 10:30 AM</td>
-      <td colspan="2">☕ <strong>Break</strong></td>
+      <td colspan="2"><strong>Break</strong></td>
     </tr>
     <tr>
       <td scope="row">10:30 AM - 12:00 PM</td>
@@ -34,7 +34,7 @@ title: Scientific Programme
     </tr>
     <tr class="shared">
       <td scope="row">12:00 - 1:15 PM</td>
-      <td colspan="2">🍽️ <strong>Lunch Break</strong> (lunch on own)</td>
+      <td colspan="2"><strong>Lunch Break</strong> (lunch on own)</td>
     </tr>
     <tr>
       <td scope="row">1:15 - 4:00 PM</td>
@@ -44,19 +44,19 @@ title: Scientific Programme
     <tr>
       <td scope="row">4:00 - 4:30 PM</td>
       <td class="track-a">Student Council Symposium</td>
-      <td class="track-b">☕ Break</td>
+      <td class="track-b">Break</td>
     </tr>
     <tr class="shared">
       <td scope="row">4:30 - 5:00 PM</td>
-      <td colspan="2">☕ <strong>Break</strong></td>
+      <td colspan="2"><strong>Break</strong></td>
     </tr>
     <tr class="shared highlight">
       <td scope="row">5:00 PM</td>
-      <td colspan="2">🎤 <strong>Conference Opening and Keynote</strong></td>
+      <td colspan="2"><strong>Conference Opening and Keynote</strong></td>
     </tr>
     <tr class="shared highlight">
       <td scope="row">After the keynote</td>
-      <td colspan="2">🥂 <strong>Welcome Reception</strong></td>
+      <td colspan="2"><strong>Welcome Reception</strong></td>
     </tr>
   </tbody>
 </table>
