@@ -5,17 +5,63 @@ title: Scientific Programme
 
 ## 📅 Tuesday, 28 September
 
-| Time | Event | Time | Event |
-|---|---|---|---|
-| 8:00 AM - 9:00 AM | **Registration** |||
-| 9:00 AM - 10:00 AM | **Student Council Symposium** | 9:00 AM - 10:00 AM | **Tutorials / Workshop** |
-| 10:00 AM - 10:30 AM | **Break** |||
-| 10:30 AM - 12:00 PM | **Student Council Symposium** | 10:30 AM - 12:00 PM | **Tutorials / Workshop** |
-| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |||
-| 1:15 PM - 4:30 PM | **Student Council Symposium** | 1:15 PM - 4:00 PM | **Tutorials / Workshop** |
-| 4:00 PM - 5:00 PM | **Break** |||
-| 5:00 PM | **Conference Opening and Keynote** |||
-|  | **Welcome Reception** |  ||
+<div class="program-wrap">
+<table class="program-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th class="track-a">🎓 Student Council Symposium</th>
+      <th class="track-b">🛠️ Tutorials / Workshop</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="shared">
+      <th scope="row">8:00 - 9:00 AM</th>
+      <td colspan="2">📝 <strong>Registration</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">9:00 - 10:00 AM</th>
+      <td class="track-a">Student Council Symposium</td>
+      <td class="track-b">Tutorials / Workshop</td>
+    </tr>
+    <tr class="shared">
+      <th scope="row">10:00 - 10:30 AM</th>
+      <td colspan="2">☕ <strong>Break</strong></td>
+    </tr>
+    <tr>
+      <th scope="row">10:30 AM - 12:00 PM</th>
+      <td class="track-a">Student Council Symposium</td>
+      <td class="track-b">Tutorials / Workshop</td>
+    </tr>
+    <tr class="shared">
+      <th scope="row">12:00 - 1:15 PM</th>
+      <td colspan="2">🍽️ <strong>Lunch Break</strong> (lunch on own)</td>
+    </tr>
+    <tr>
+      <th scope="row">1:15 - 4:00 PM</th>
+      <td class="track-a">Student Council Symposium</td>
+      <td class="track-b">Tutorials / Workshop</td>
+    </tr>
+    <tr>
+      <th scope="row">4:00 - 4:30 PM</th>
+      <td class="track-a">Student Council Symposium (ends 4:30 PM)</td>
+      <td class="track-b">☕ Break</td>
+    </tr>
+    <tr class="shared">
+      <th scope="row">4:30 - 5:00 PM</th>
+      <td colspan="2">☕ <strong>Break</strong></td>
+    </tr>
+    <tr class="shared highlight">
+      <th scope="row">5:00 PM</th>
+      <td colspan="2">🎤 <strong>Conference Opening and Keynote</strong></td>
+    </tr>
+    <tr class="shared highlight">
+      <th scope="row">After the keynote</th>
+      <td colspan="2">🥂 <strong>Welcome Reception</strong></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
