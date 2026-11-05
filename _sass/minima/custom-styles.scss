@@ -91,11 +91,16 @@ details p {
     text-align: left;
     font-weight: 600;
   }
+   
+  tbody td {
+    background: #ffffff;
+    color: #000000;
+    text-align: center;
+   }
+   tbody td:first-child { text-align: left; }
 
   td.track-a {}
   td.track-b {}
-
-  td:first-child { text-align: left; }
    
   tr.shared td {
     text-align: center;
