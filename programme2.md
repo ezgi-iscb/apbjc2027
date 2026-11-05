@@ -7,6 +7,12 @@ title: Scientific Programme
 
 <div class="program-wrap">
 <table class="program-table">
+  <colgroup>
+    <col class="col-time">
+    <col class="col-a">
+    <col class="col-sep">
+    <col class="col-b">
+  </colgroup>
   <thead>
     <tr>
       <th>Time</th>
