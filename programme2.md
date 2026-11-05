@@ -35,17 +35,17 @@ title: Scientific Programme
       <td colspan="3"><strong>Break</strong></td>
     </tr>
     <tr>
-      <td>10:30 AM - 12:00 PM</td>
+      <td>10:30 AM - 11:45 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Tutorials / Workshop</td>
     </tr>
     <tr>
-      <td>12:00 PM - 1:15 PM</td>
+      <td>11:45 AM - 1:00 PM</td>
       <td colspan="3"><strong>Lunch Break</strong> (lunch on own)</td>
     </tr>
     <tr>
-      <td>1:15 PM - 4:00 PM</td>
+      <td>1:00 PM - 4:00 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Tutorials / Workshop</td>
@@ -81,9 +81,9 @@ title: Scientific Programme
 | 8:00 AM - 9:00 AM | **Registration** |
 | 9:00 AM - 10:00 AM | **Keynote** |
 | 10:00 AM - 10:30 AM | **Break** |
-| 10:30 AM - 12:00 PM | **Scientific Sessions** (6 talks) |
-| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |
-| 1:15 PM - 2:30 PM | **Scientific Sessions** (5 talks) |
+| 10:30 AM - 11:45 AM | **Scientific Sessions** (5 talks) |
+| 11:45 AM - 1:15 PM | **Lunch Break** (lunch on own) |
+| 1:00 PM - 2:30 PM | **Scientific Sessions** (6 talks) |
 | 2:30 PM - 3:45 PM | **Posters and Break** |
 | 3:45 PM - 5:30 PM | **Scientific Sessions** (7 talks) |
 
@@ -96,9 +96,9 @@ title: Scientific Programme
 | 8:30 AM - 9:00 AM | **Registration** |
 | 9:00 AM - 10:00 AM | **Keynote** |
 | 10:00 AM - 10:30 AM | **Break** |
-| 10:30 AM - 12:00 PM | **Scientific Sessions** (6 talks) |
-| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |
-| 1:15 PM - 2:30 PM | **Scientific Sessions** (5 talks) |
+| 10:30 AM - 11:45 AM | **Scientific Sessions** (5 talks) |
+| 11:45 AM - 1:15 PM | **Lunch Break** (lunch on own) |
+| 1:00 PM - 2:30 PM | **Scientific Sessions** (6 talks) |
 | 2:30 PM - 3:45 PM | **Posters and Break** |
 | 3:45 PM - 5:30 PM | **Scientific Sessions** (7 talks) |
 
