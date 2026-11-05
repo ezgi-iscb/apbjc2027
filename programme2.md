@@ -10,8 +10,7 @@ title: Scientific Programme
   <thead>
     <tr>
       <th>Time</th>
-      <th class="track-a">🎓 Student Council Symposium</th>
-      <th class="track-b">🛠️ Tutorials / Workshop</th>
+      <th>Event</th>
     </tr>
   </thead>
   <tbody>
