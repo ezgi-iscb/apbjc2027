@@ -10,7 +10,7 @@ title: Scientific Programme
   <thead>
     <tr>
       <th>Time</th>
-      <th>Event</th>
+      <td colspan="2">Event</td>
     </tr>
   </thead>
   <tbody>
