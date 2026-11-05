@@ -54,7 +54,7 @@ title: Scientific Programme
       <td>4:00 PM - 4:30 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
-      <td>Break</td>
+      <td><strong>Break</strong></td>
     </tr>
     <tr>
       <td>4:30 PM - 5:00 PM</td>
