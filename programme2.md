@@ -65,7 +65,7 @@ title: Scientific Programme
       <td colspan="3"><strong>Conference Opening and Keynote</strong></td>
     </tr>
     <tr>
-      <td>After the keynote</td>
+      <td> </td>
       <td colspan="3"><strong>Welcome Reception</strong></td>
     </tr>
   </tbody>
