@@ -5,12 +5,17 @@ title: Scientific Programme
 
 ## 📅 Tuesday, 28 September
 
-| Time | Event |
-|---|---|
-| 9:00 AM - 4:30 PM | **Student Council Symposium** |
-| 9:00 AM - 4:00 PM | **Tutorials / Workshop** |
-| 5:00 PM | **Conference Opening and Keynote** |
-| 6:30 PM | **Welcome Reception** |
+| Time | Event | Time | Event |
+|---|---|---|---|
+| 8:00 AM - 9:00 AM | **Registration** | 8:00 AM - 9:00 AM | **Registration** |
+| 9:00 AM - 10:00 AM | **Student Council Symposium** | 9:00 AM - 10:00 AM | **Tutorials / Workshop** |
+| 10:00 AM - 10:30 AM | **Break** | 10:00 AM - 10:30 AM | **Break** |
+| 10:30 AM - 12:00 PM | **Student Council Symposium** | 10:30 AM - 12:00 PM | **Tutorials / Workshop** |
+| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) | 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |
+| 1:15 PM - 4:30 PM | **Student Council Symposium** | 1:15 PM - 4:00 PM | **Tutorials / Workshop** |
+| 4:00 PM - 5:00 PM | **Break** | 4:00 PM - 5:00 PM | **Break** |
+| 5:00 PM | **Conference Opening and Keynote** | 5:00 PM | **Conference Opening and Keynote** |
+|  | **Welcome Reception** |  | **Welcome Reception** |
 
 ---
 
@@ -18,6 +23,7 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
+| 8:00 AM - 9:00 AM | **Registration** |
 | 9:00 AM - 10:00 AM | **Keynote** |
 | 10:00 AM - 10:30 AM | **Break** |
 | 10:30 AM - 12:00 PM | **Scientific Sessions** (6 talks) |
@@ -32,6 +38,7 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
+| 8:30 AM - 9:00 AM | **Registration** |
 | 9:00 AM - 10:00 AM | **Keynote** |
 | 10:00 AM - 10:30 AM | **Break** |
 | 10:30 AM - 12:00 PM | **Scientific Sessions** (6 talks) |
@@ -46,6 +53,7 @@ title: Scientific Programme
 
 | Time | Event |
 |---|---|
+| 8:30 AM - 9:00 AM | **Registration** |
 | 9:00 AM - 10:30 AM | **Scientific Sessions / Special Session** |
 | 10:30 AM - 11:15 AM | **Break** |
 | 11:15 AM - 1:15 PM | **Scientific Sessions** (6 talks) |
