@@ -43,7 +43,7 @@ title: Scientific Programme
     </tr>
     <tr>
       <td scope="row">4:00 - 4:30 PM</td>
-      <td class="track-a">Student Council Symposium (ends 4:30 PM)</td>
+      <td class="track-a">Student Council Symposium</td>
       <td class="track-b">☕ Break</td>
     </tr>
     <tr class="shared">
