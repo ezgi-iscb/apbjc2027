@@ -7,15 +7,15 @@ title: Scientific Programme
 
 | Time | Event | Time | Event |
 |---|---|---|---|
-| 8:00 AM - 9:00 AM | **Registration** | 8:00 AM - 9:00 AM | **Registration** |
+| 8:00 AM - 9:00 AM | **Registration** |||
 | 9:00 AM - 10:00 AM | **Student Council Symposium** | 9:00 AM - 10:00 AM | **Tutorials / Workshop** |
-| 10:00 AM - 10:30 AM | **Break** | 10:00 AM - 10:30 AM | **Break** |
+| 10:00 AM - 10:30 AM | **Break** |||
 | 10:30 AM - 12:00 PM | **Student Council Symposium** | 10:30 AM - 12:00 PM | **Tutorials / Workshop** |
-| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) | 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |
+| 12:00 PM - 1:15 PM | **Lunch Break** (lunch on own) |||
 | 1:15 PM - 4:30 PM | **Student Council Symposium** | 1:15 PM - 4:00 PM | **Tutorials / Workshop** |
-| 4:00 PM - 5:00 PM | **Break** | 4:00 PM - 5:00 PM | **Break** |
-| 5:00 PM | **Conference Opening and Keynote** | 5:00 PM | **Conference Opening and Keynote** |
-|  | **Welcome Reception** |  | **Welcome Reception** |
+| 4:00 PM - 5:00 PM | **Break** |||
+| 5:00 PM | **Conference Opening and Keynote** |||
+|  | **Welcome Reception** |  ||
 
 ---
 
