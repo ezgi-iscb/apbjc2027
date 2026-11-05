@@ -75,13 +75,13 @@ details p {
 
   th, td {
     padding: 0.7rem 0.9rem;
-    border: 1px solid #dde3ea;
+    border: 1px solid #000000;
     vertical-align: middle;
   }
 
   thead th {
-    background: #1f3a5f;
-    color: #fff;
+    background: #000000;
+    color: #ffffff;
     text-align: center;
   }
   thead th:first-child { text-align: left; }
@@ -89,20 +89,17 @@ details p {
   tbody th {
     white-space: nowrap;
     text-align: left;
-    background: #f4f6f9;
     font-weight: 600;
   }
 
-  td.track-a { background: #eef5ff; }
-  td.track-b { background: #fff4e8; }
+  td.track-a {}
+  td.track-b {}
 
   tr.shared td {
     text-align: center;
-    background: #f8f8f8;
   }
 
   tr.highlight td {
-    background: #fdeaea;
     font-size: 1.05rem;
   }
 }
