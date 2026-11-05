@@ -65,51 +65,13 @@ details p {
 
 .program-wrap {
   overflow-x: auto;           // scrolls sideways on phones instead of breaking the page
-  margin: 1.5rem 0;
 }
 
-.program-table {
-  width: auto;                // fits the content instead of stretching across the page
-  border-collapse: collapse;
-  font-size: 0.95rem;
-  color: #000;
-  background: #fff;
-
-  th, td {
-    padding: 0.4rem 0.7rem;   // reduce these to tighten further
-    border: none;
-    border-bottom: 1px solid #000;
-    background: #fff;
-    vertical-align: middle;
-  }
-
-  // Black header row
-  thead th {
-    background: #000;
-    color: #fff;
-    text-align: left;
-    border-bottom: none;
-  }
-
-  // Time column
-  tbody th {
-    white-space: nowrap;
-    text-align: left;
-    font-weight: 700;
-  }
-
-  // Rows that apply to everyone are centered across both sessions
-  tr.shared td {
-    text-align: center;
-  }
-
-  // The divider between parallel sessions
-  td.sep {
-    width: 1.5rem;
-    padding: 0 0.2rem;
-    text-align: center;
-    font-size: 0.6rem;
-  }
+// The divider column between parallel sessions
+.program-table td.sep {
+  width: 1.5rem;
+  text-align: center;
+  font-size: 0.6rem;
 }
 
 /* End programme custom css
