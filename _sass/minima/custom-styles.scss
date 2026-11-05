@@ -67,11 +67,42 @@ details p {
   overflow-x: auto;           // scrolls sideways on phones instead of breaking the page
 }
 
-// The divider column between parallel sessions
-.program-table td.sep {
-  width: 1.5rem;
-  text-align: center;
-  font-size: 0.6rem;
+.program-table {
+  table-layout: fixed;
+  width: 100%;
+  max-width: 1000px;          // stops the columns drifting apart on large screens
+
+  .col-time { width: 30%; }
+  .col-a    { width: 19%; }
+  .col-sep  { width: 3%; }
+  .col-b    { width: 48%; }
+
+  td.sep {
+    text-align: center;
+    font-size: 0.6rem;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+// Tablets and smaller: give the session columns more room
+@media (max-width: 800px) {
+  .program-table {
+    font-size: 0.9rem;
+
+    .col-time { width: 26%; }
+    .col-a    { width: 33%; }
+    .col-sep  { width: 6%; }
+    .col-b    { width: 35%; }
+  }
+}
+
+// Phones: let the table keep a minimum width and scroll sideways if needed
+@media (max-width: 500px) {
+  .program-table {
+    min-width: 480px;
+    font-size: 0.85rem;
+  }
 }
 
 /* End programme custom css
