@@ -14,52 +14,52 @@ title: Scientific Programme
     </tr>
   </thead>
   <tbody>
-    <tr class="shared">
-      <th scope="row">8:00 - 9:00 AM</th>
+    <tr>
+      <td>8:00 AM - 9:00 AM</td>
       <td colspan="3"><strong>Registration</strong></td>
     </tr>
     <tr>
-      <th scope="row">9:00 - 10:00 AM</th>
+      <td>9:00 AM - 10:00 AM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Tutorials / Workshop</td>
     </tr>
-    <tr class="shared">
-      <th scope="row">10:00 - 10:30 AM</th>
+    <tr>
+      <td>10:00 AM - 10:30 AM</td>
       <td colspan="3"><strong>Break</strong></td>
     </tr>
     <tr>
-      <th scope="row">10:30 AM - 12:00 PM</th>
+      <td>10:30 AM - 12:00 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Tutorials / Workshop</td>
     </tr>
-    <tr class="shared">
-      <th scope="row">12:00 - 1:15 PM</th>
+    <tr>
+      <td>12:00 PM - 1:15 PM</td>
       <td colspan="3"><strong>Lunch Break</strong> (lunch on own)</td>
     </tr>
     <tr>
-      <th scope="row">1:15 - 4:00 PM</th>
+      <td>1:15 PM - 4:00 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Tutorials / Workshop</td>
     </tr>
     <tr>
-      <th scope="row">4:00 - 4:30 PM</th>
+      <td>4:00 PM - 4:30 PM</td>
       <td>Student Council Symposium</td>
       <td class="sep">●</td>
       <td>Break</td>
     </tr>
-    <tr class="shared">
-      <th scope="row">4:30 - 5:00 PM</th>
+    <tr>
+      <td>4:30 PM - 5:00 PM</td>
       <td colspan="3"><strong>Break</strong></td>
     </tr>
-    <tr class="shared">
-      <th scope="row">5:00 PM</th>
+    <tr>
+      <td>5:00 PM</td>
       <td colspan="3"><strong>Conference Opening and Keynote</strong></td>
     </tr>
-    <tr class="shared">
-      <th scope="row">After the keynote</th>
+    <tr>
+      <td>After the keynote</td>
       <td colspan="3"><strong>Welcome Reception</strong></td>
     </tr>
   </tbody>
