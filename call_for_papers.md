@@ -23,7 +23,7 @@ ISCB members will enjoy a 20% discount off publishing fees.  If you are not an I
 ## Key Dates
 
 - **Paper submission deadline**: {{ site.deadlines.paper_submission }}
-- **Author notification**: {{ site.d.paper_natesotification }}
+- **Author notification**: {{ site.dates.paper_notification }}
 - **Confirmation of participation notices sent**: {{ site.dates.cop_notices_sent }}
 - **Confirmation of participation form submission deadline**: {{ site.deadlines.cop }}
 - **Presenter registration deadline**: {{ site.deadlines.presenter_registration }}
