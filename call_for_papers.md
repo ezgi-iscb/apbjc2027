@@ -5,7 +5,11 @@ title: Call for Papers
 
 ## Overview
 
-Submissions are invited for full papers, oral presentation abstracts, and posters at the 2nd Asia & Pacific Bioinformatics Joint Conference. This is an invitation to scientists and professionals working in the fields of bioinformatics and computational biology to submit high-quality original research papers for presentation at APBJC 2027. Authors of papers and oral abstracts that are accepted to the conference will present their work at the conference (longer talks for full papers, shorter talks for the abstracts). Accepted full papers will be considered for inclusion in a special issue of [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances).
+Submissions are invited for full papers, oral presentation abstracts, and posters at the 2nd Asia & Pacific Bioinformatics Joint Conference. This is an invitation to scientists and professionals working in the fields of bioinformatics and computational biology to submit high-quality original research papers for presentation at APBJC 2027. Authors of papers and oral abstracts that are accepted to the conference will present their work at the conference (longer talks for full papers, shorter talks for the abstracts).
+
+**Submission Link:** [https://easychair.org/conferences/?conf=apbjc2027](https://easychair.org/conferences/?conf=apbjc2027)
+
+Accepted full papers will be considered for inclusion in a special issue of [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances).
 
 To learn more about *Bioinformatics Advances*, visit:
 
@@ -50,6 +54,8 @@ A wide definition and inclusion of bioinformatics/computational biology will be 
 * Other Topics Related to Computational Biology
 
 ## Submission Guidelines
+
+**Submission Link:** [https://easychair.org/conferences/?conf=apbjc2027](https://easychair.org/conferences/?conf=apbjc2027)
 
 All submissions **MUST** select at least one corresponding author. **Papers must be submitted by following the template for author submission to the journal *Bioinformatics Advances*; no other formats will be accepted.** Using the OUP template, the paper length must not exceed nine pages. EasyChair will not allow uploading of papers that exceed 9 pages in length. The page count should include any required author information (submissions are not double-blind), abstract, figures, tables, and bibliography. Note that alt text is required for any image used in the paper. Papers must be submitted as a PDF. The paper must contain a structured abstract whose length does not exceed 250 words, divided into sub-sections under the following five headings: Motivation, Results, Availability and Implementation, Contact, and Supplementary Information (the latter only if applicable). The order and titles of the remaining paper sections can be chosen by the authors to best match their work. Violations of paper formatting, including changes to the font size or spaces in the OUP template, and violations of length rules will be grounds for rejection.
 
