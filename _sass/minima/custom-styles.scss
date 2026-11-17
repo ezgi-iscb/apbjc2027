@@ -269,7 +269,7 @@ body:not(.home-page):not(.page-page) .page-content {
 /* Mobile: increase header padding for better spacing */
 @media screen and (max-width: 799px) {
   .site-header {
-    padding: 10px 0; // Add vertical padding to push border away from logo
+    padding: 5px 0; // Add vertical padding to push border away from logo
   }
   
   .recomb-logo {
