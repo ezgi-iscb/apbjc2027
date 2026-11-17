@@ -336,8 +336,8 @@ body:not(.home-page):not(.page-page) .page-content {
     padding: 10px 15px !important;
     margin: 0 !important;
     max-width: 100% !important;
-    box-sizing: border-box;
   }
+   
   .recomb-logo {
     height: auto;
     width: 120px; // Set a fixed width for the logo
@@ -347,16 +347,7 @@ body:not(.home-page):not(.page-page) .page-content {
   }
 
   .site-title {
-    padding: 0;
-    margin: 0;
-    float: none;
-  }
-   
-  .site-header .apbjc-logo {
-    display: block;
-    height: auto;
-    width: auto; 
-    margin-right: 0;
+    padding-left: 10px;
   }
 }
 
