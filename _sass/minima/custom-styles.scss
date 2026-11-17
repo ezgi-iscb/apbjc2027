@@ -354,9 +354,11 @@ body:not(.home-page):not(.page-page) .page-content {
    
   .site-header .apbjc-logo {
     display: block;
-    height: 40px;
-    width: auto;
-    margin: 0;
+    height: auto;
+    width: 120px; // Set a fixed width for the logo
+    margin-top: 5px; // Adjust vertical alignment
+    margin-bottom: 5px; // Add bottom margin to prevent touching border
+    margin-right: 10px;
   }
 
   .mobile-nav {
