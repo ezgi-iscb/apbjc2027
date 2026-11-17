@@ -336,6 +336,14 @@ body:not(.home-page):not(.page-page) .page-content {
     padding: 10px 15px !important;
     margin: 0 !important;
     max-width: 100% !important;
+    box-sizing: border-box;
+  }
+  .recomb-logo {
+    height: auto;
+    width: 120px; // Set a fixed width for the logo
+    margin-top: 5px; // Adjust vertical alignment
+    margin-bottom: 5px; // Add bottom margin to prevent touching border
+    margin-right: 10px;
   }
 
   .site-title {
