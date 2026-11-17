@@ -258,18 +258,10 @@ body:not(.home-page):not(.page-page) .page-content {
   fill: #424242;
 }
 
-.recomb-logo {
-  height: auto;
-  width: 120px; // Set a fixed width for the logo
-  margin-top: 5px; // Adjust vertical alignment
-  margin-bottom: 5px; // Add bottom margin to prevent touching border
-  margin-right: 10px;
-}
-
 /* Mobile: increase header padding for better spacing */
 @media screen and (max-width: 799px) {
   .site-header {
-    padding: 5px 0; // Add vertical padding to push border away from logo
+    padding: 10px 0; // Add vertical padding to push border away from logo
   }
   
   .recomb-logo {
@@ -344,10 +336,24 @@ body:not(.home-page):not(.page-page) .page-content {
     padding: 10px 15px !important;
     margin: 0 !important;
     max-width: 100% !important;
+    box-sizing: border-box;
   }
 
   .site-title {
-    padding-left: 10px;
+    padding: 0;
+    margin: 0;
+    float: none;
+  }
+   
+  .site-header .apbjc-logo {
+    display: block;
+    height: 40px;
+    width: auto;
+    margin: 0;
+  }
+
+  .mobile-nav {
+    margin-left: auto;
   }
 }
 
