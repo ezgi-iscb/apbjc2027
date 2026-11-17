@@ -9,9 +9,7 @@ Submissions are invited for full papers, oral presentation abstracts, and poster
 
 **Submission Link:** [https://easychair.org/conferences/?conf=apbjc2027](https://easychair.org/conferences/?conf=apbjc2027)
 
-Accepted full papers will be considered for inclusion in a special issue of [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances).
-
-To learn more about *Bioinformatics Advances*, visit:
+Accepted full papers will be considered for inclusion in a special issue of [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances). To learn more about *Bioinformatics Advances*, visit:
 
 General Information: [https://academic.oup.com/bioinformaticsadvances](https://academic.oup.com/bioinformaticsadvances) \
 Submission Information: [https://mc.manuscriptcentral.com/bioadv](https://mc.manuscriptcentral.com/bioadv) \
