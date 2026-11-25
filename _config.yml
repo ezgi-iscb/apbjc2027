@@ -149,9 +149,9 @@ main_navigation:
 
 # Custom variables	
 deadlines:
-  paper_submission: "May 3, 2027, 23:59 AoE"
+  paper_submission: "April 22, 2027, 23:59 AoE"
   paper_final_version: "June 17, 2027, 23:59 AoE"
-  abstract_submission: "June 14, 2027, 23:59 AoE"
+  abstract_submission: "June 4, 2027, 23:59 AoE"
   late_abstract_submission: "August 9, 2027, 23:59 AoE"
   tutorial_proposal: "March 1, 2027, 23:59 AoE"
   tutorial_draft: "August 16, 2027, 23:59 AoE"
@@ -175,8 +175,8 @@ dates:
   cfa: "TBA"
   cft: "January 4, 2027"
   cftt: "January 4, 2027"
-  paper_notification: "June 7, 2027"
-  abstract_notification: "July 9, 2027"
+  paper_notification: "June 3, 2027"
+  abstract_notification: "June 25, 2027"
   tutorial_notification: "April 12, 2027"
   tt_notification: "July 26, 2027"
   late_abstract_notification: "August 16, 2027"
